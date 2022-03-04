@@ -26,7 +26,16 @@ git push  (atualiza todas as informações novas, e novos comites)
 
 git clone (URL) (copia o repositorio remoto do git hub e transfere para o repositorio local)
 
-git oull origin master (atualiza o repositorio local com o repositorio do github)
+git pull origin master (atualiza o repositorio local com o repositorio do github)
+
+git branch -m master main (atualiza o tipo de branch)
+
+git reset --hard (codigo da branch) - reseta o último commit
+
+git push origin develop --force (força o retorno da branch deletada)
+
+
+
 
 
 
