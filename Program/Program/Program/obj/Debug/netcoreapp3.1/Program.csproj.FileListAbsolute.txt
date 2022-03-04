@@ -1,0 +1,13 @@
+C:\Temp\ws-vs2019\Program\Program\Program\bin\Debug\netcoreapp3.1\Program.exe
+C:\Temp\ws-vs2019\Program\Program\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+C:\Temp\ws-vs2019\Program\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+C:\Temp\ws-vs2019\Program\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Program\Program\Program\bin\Debug\netcoreapp3.1\Program.dll
+C:\Temp\ws-vs2019\Program\Program\Program\bin\Debug\netcoreapp3.1\Program.pdb
+C:\Temp\ws-vs2019\Program\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Program\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Program\Program\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Program\Program\Program\obj\Debug\netcoreapp3.1\Program.dll
+C:\Temp\ws-vs2019\Program\Program\Program\obj\Debug\netcoreapp3.1\Program.pdb
+C:\Temp\ws-vs2019\Program\Program\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
+C:\Temp\ws-vs2019\Program\Program\Program\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache

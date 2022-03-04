@@ -1,0 +1,16 @@
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.exe
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.deps.json
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.runtimeconfig.json
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.dll
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.pdb
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.csprojAssemblyReference.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.Form1.resources
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.Properties.Resources.resources
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.csproj.GenerateResource.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.AssemblyInfo.cs
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.dll
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.pdb
+C:\Temp\ws-vs2019\WindowsForm\Calculo_imc\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.genruntimeconfig.cache

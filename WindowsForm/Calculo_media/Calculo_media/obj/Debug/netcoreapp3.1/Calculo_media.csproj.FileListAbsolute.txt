@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\bin\Debug\netcoreapp3.1\Calculo_media.exe
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\bin\Debug\netcoreapp3.1\Calculo_media.deps.json
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\bin\Debug\netcoreapp3.1\Calculo_media.runtimeconfig.json
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\bin\Debug\netcoreapp3.1\Calculo_media.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\bin\Debug\netcoreapp3.1\Calculo_media.dll
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\bin\Debug\netcoreapp3.1\Calculo_media.pdb
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\obj\Debug\netcoreapp3.1\Calculo_media.csprojAssemblyReference.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\obj\Debug\netcoreapp3.1\Calculo_media.Form1.resources
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\obj\Debug\netcoreapp3.1\Calculo_media.csproj.GenerateResource.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\obj\Debug\netcoreapp3.1\Calculo_media.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\obj\Debug\netcoreapp3.1\Calculo_media.AssemblyInfo.cs
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\obj\Debug\netcoreapp3.1\Calculo_media.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\obj\Debug\netcoreapp3.1\Calculo_media.dll
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\obj\Debug\netcoreapp3.1\Calculo_media.pdb
+C:\Temp\ws-vs2019\WindowsForm\Calculo_media\Calculo_media\obj\Debug\netcoreapp3.1\Calculo_media.genruntimeconfig.cache

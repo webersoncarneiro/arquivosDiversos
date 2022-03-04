@@ -1,0 +1,13 @@
+C:\Temp\ws-vs2019\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.exe
+C:\Temp\ws-vs2019\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.deps.json
+C:\Temp\ws-vs2019\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.runtimeconfig.json
+C:\Temp\ws-vs2019\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.dll
+C:\Temp\ws-vs2019\Course2\Course2\bin\Debug\netcoreapp3.1\Course2.pdb
+C:\Temp\ws-vs2019\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.csprojAssemblyReference.cache
+C:\Temp\ws-vs2019\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.dll
+C:\Temp\ws-vs2019\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.pdb
+C:\Temp\ws-vs2019\Course2\Course2\obj\Debug\netcoreapp3.1\Course2.genruntimeconfig.cache

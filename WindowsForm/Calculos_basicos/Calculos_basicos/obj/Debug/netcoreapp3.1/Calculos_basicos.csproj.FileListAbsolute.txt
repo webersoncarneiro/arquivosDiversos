@@ -1,0 +1,16 @@
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.exe
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.deps.json
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.runtimeconfig.json
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.dll
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\bin\Debug\netcoreapp3.1\Calculos_basicos.pdb
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.csprojAssemblyReference.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.Form1.resources
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.Properties.Resources.resources
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.csproj.GenerateResource.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.AssemblyInfo.cs
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.dll
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.pdb
+C:\Temp\ws-vs2019\WindowsForm\Calculos_basicos\Calculos_basicos\obj\Debug\netcoreapp3.1\Calculos_basicos.genruntimeconfig.cache

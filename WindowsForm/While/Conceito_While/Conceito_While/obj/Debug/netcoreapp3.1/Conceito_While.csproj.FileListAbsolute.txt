@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\bin\Debug\netcoreapp3.1\Conceito_While.exe
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\bin\Debug\netcoreapp3.1\Conceito_While.deps.json
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\bin\Debug\netcoreapp3.1\Conceito_While.runtimeconfig.json
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\bin\Debug\netcoreapp3.1\Conceito_While.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\bin\Debug\netcoreapp3.1\Conceito_While.dll
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\bin\Debug\netcoreapp3.1\Conceito_While.pdb
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\obj\Debug\netcoreapp3.1\Conceito_While.csprojAssemblyReference.cache
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\obj\Debug\netcoreapp3.1\Conceito_While.Form1.resources
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\obj\Debug\netcoreapp3.1\Conceito_While.csproj.GenerateResource.cache
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\obj\Debug\netcoreapp3.1\Conceito_While.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\obj\Debug\netcoreapp3.1\Conceito_While.AssemblyInfo.cs
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\obj\Debug\netcoreapp3.1\Conceito_While.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\obj\Debug\netcoreapp3.1\Conceito_While.dll
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\obj\Debug\netcoreapp3.1\Conceito_While.pdb
+C:\Temp\ws-vs2019\WindowsForm\While\Conceito_While\Conceito_While\obj\Debug\netcoreapp3.1\Conceito_While.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.exe
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.deps.json
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.runtimeconfig.json
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.dll
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\bin\Debug\netcoreapp3.1\Condicao_if.pdb
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.Form1.resources
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.csproj.GenerateResource.cache
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.AssemblyInfo.cs
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.dll
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.pdb
+C:\Temp\ws-vs2019\WindowsForm\Condições\Condicao_if\Condicao_if\obj\Debug\netcoreapp3.1\Condicao_if.genruntimeconfig.cache

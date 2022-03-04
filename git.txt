@@ -1,0 +1,34 @@
+globgiy .gitignore   (criado no bloco de notas)
+
+git init   (inicia o git)
+
+git config --global user.name "user"
+git config --global user.email "email"
+
+git status   ("verifica o status atual do commit")
+
+status red   "arquivos não prontos para serem comitados"
+status green   "arquivos prontos para serem comitados"
+
+git add .    (adiciona um novo arquivo para ser comitado)
+
+git commit -m    "descrição da modificação que foi feita para ser comitado"
+
+git log (mostra quem criou e a data da criação do commit )
+
+git log --oneline (mostra um resumo dos commits)
+
+git remote add origin (url do repositorio do GITHUB) "transfere o repositorio local para o repósitório remoto"
+
+git push -u origin master (sobe pro repositorio do github)
+
+git push  (atualiza todas as informações novas, e novos comites)
+
+git clone (URL) (copia o repositorio remoto do git hub e transfere para o repositorio local)
+
+git oull origin master (atualiza o repositorio local com o repositorio do github)
+
+
+
+
+

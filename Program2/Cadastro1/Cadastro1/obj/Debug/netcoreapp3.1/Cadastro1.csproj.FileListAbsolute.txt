@@ -1,0 +1,13 @@
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\bin\Debug\netcoreapp3.1\Cadastro1.exe
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\bin\Debug\netcoreapp3.1\Cadastro1.deps.json
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\bin\Debug\netcoreapp3.1\Cadastro1.runtimeconfig.json
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\bin\Debug\netcoreapp3.1\Cadastro1.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\bin\Debug\netcoreapp3.1\Cadastro1.dll
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\bin\Debug\netcoreapp3.1\Cadastro1.pdb
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\obj\Debug\netcoreapp3.1\Cadastro1.csprojAssemblyReference.cache
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\obj\Debug\netcoreapp3.1\Cadastro1.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\obj\Debug\netcoreapp3.1\Cadastro1.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\obj\Debug\netcoreapp3.1\Cadastro1.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\obj\Debug\netcoreapp3.1\Cadastro1.dll
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\obj\Debug\netcoreapp3.1\Cadastro1.pdb
+C:\Temp\ws-vs2019\Program2\Cadastro1\Cadastro1\obj\Debug\netcoreapp3.1\Cadastro1.genruntimeconfig.cache
