@@ -10,38 +10,43 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            //int idade;
-            double idade1 = 25.3;
-            var idade = 25.3;
-            int? idade5 = null;
-            var salario = 2500;
-            var salario1 = 2.500;
-            float salario3 = 2.500f;
-            decimal salarioAnual = 25.000m;
-            double salarioSemestral = 22.000;
-            bool temSalario = true;
-            var usuarioExpirado = false;
-            char usuario = 'A';
-            var segundaLetra = 'B';
-            string nome = "Weberson";
-            object nome2 = null;
 
-            //Conversão implícita - tipos de dados compatíveis
-            float valor = 25.5f;
-            int outro = 25;        
-            valor = outro;
+            var product = new Product( 5, "Weberson", 50.0, Product.EProductType.Product );           
 
-            // Conversão Explícita - quando é obrigado a declarar o tipo de dado convertido;
-            int idade10 = 25;
-            float idade11 = 25.7f;
-            idade10 = Convert.ToInt32(idade11);
+            Console.WriteLine(product.Name);
+            Console.WriteLine(product.Id);
+            Console.WriteLine(product.Price);
+            Console.WriteLine((int)product.Type);
+        }
 
-            // o Parse sempre espera uma string
-            int inteiro = int.Parse("100");
+    }
 
-            var texto = "Testando";
-            Console.WriteLine(texto);
-            Console.WriteLine(idade5);
+    struct Product
+    {
+
+        public Product(int id, string name, double price, EProductType type)
+        {
+            Id = id;
+            Name = name;
+            Price = price;
+            Type = type;
+        }
+
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public double Price { get; set; }
+        public EProductType Type { get; set; }
+
+        public double PriceInDolar(double dolar)
+        {
+            return Price * dolar;
+        }
+
+       public enum EProductType
+        {
+            Product = 1,
+            Service = 2
+
         }
     }
 }
